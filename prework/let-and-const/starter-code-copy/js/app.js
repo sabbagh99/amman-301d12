@@ -37,6 +37,7 @@ function displayPics(){
   }
   // TODO: In a sentence or two, explain why the previous line of code threw an error when we changed the constiable declaration from `const to `const`.
   // PUT YOUR RESPONSE IN THIS COMMENT
+  // beacuse let define the varyable localy
   console.log(viewed);
 
   for (let i = 0; i < 3; i++){
